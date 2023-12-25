@@ -2,5 +2,7 @@
 name = "testpropeller"
 version = "0.1.0"
 edition = "2021"
+description = "Client library for Test Propeller."
+license = "0BSD"
 
 [dependencies]
